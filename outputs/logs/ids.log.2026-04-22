@@ -1,0 +1,8 @@
+2026-04-25 14:05:36 [INFO    ] app – Loading model …
+2026-04-25 14:05:36 [INFO    ] app – Model loaded. Classes: ['dos', 'normal', 'probe', 'r2l', 'u2r']
+2026-04-25 14:05:36 [INFO    ] app – Dashboard → http://127.0.0.1:5000
+2026-04-25 14:05:36 [INFO    ] app – Monitoring interfaces: en0,lo0
+2026-04-25 14:05:54 [INFO    ] app – Capturing on interfaces: ['en0', 'lo0']
+2026-04-25 14:05:54 [INFO    ] app – Detection started.
+2026-04-25 14:05:54 [INFO    ] app – Starting capture on interface: en0
+2026-04-25 14:05:54 [INFO    ] app – Starting capture on interface: lo0

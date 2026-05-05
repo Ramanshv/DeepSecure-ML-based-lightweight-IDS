@@ -1,0 +1,14 @@
+# Python environments
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Large Datasets & Models (DO NOT PUSH THESE)
+*.csv
+*.txt
+*.pkl
+*.joblib
+
+# OS generated files
+.DS_Store

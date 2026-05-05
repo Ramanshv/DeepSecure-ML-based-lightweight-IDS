@@ -1,0 +1,4 @@
+2026-04-22 19:19:00 [INFO    ] src.flow_extractor – R2L HIT: Found 'login=' in payload from 127.0.0.1
+2026-04-22 19:19:41 [INFO    ] src.flow_extractor – U2R HIT: Found 'cmd=whoami' in payload from 127.0.0.1
+2026-04-22 19:19:45 [INFO    ] src.flow_extractor – U2R HIT: Found 'cmd=whoami' in payload from 127.0.0.1
+2026-04-22 19:19:48 [INFO    ] src.flow_extractor – U2R HIT: Found 'cmd=whoami' in payload from 127.0.0.1
