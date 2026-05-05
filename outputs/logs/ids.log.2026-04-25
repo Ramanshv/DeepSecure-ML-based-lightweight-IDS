@@ -1,9 +1,0 @@
-2026-04-28 09:49:49 [WARNING ] src.rule_detector – [RULE] ICMP_FLOOD (HIGH) from 127.0.0.1 – 50 ICMP packets from 127.0.0.1 to 127.0.0.1 in 3s
-2026-04-28 09:50:04 [WARNING ] src.rule_detector – [RULE] ICMP_FLOOD (CRITICAL) from 127.0.0.1 – 7691 ICMP packets from 127.0.0.1 to 127.0.0.1 in 3s
-2026-04-28 09:50:19 [WARNING ] src.rule_detector – [RULE] ICMP_FLOOD (CRITICAL) from 127.0.0.1 – 8462 ICMP packets from 127.0.0.1 to 127.0.0.1 in 3s
-2026-04-28 09:50:32 [WARNING ] src.rule_detector – [RULE] SYN_FLOOD (HIGH) from 127.0.0.1 – 200 SYN packets to 127.0.0.1:5000 in 5s
-2026-04-28 09:50:39 [WARNING ] src.rule_detector – [RULE] CONN_FLOOD (HIGH) from 127.0.0.1 – 500 new connections to 127.0.0.1:5000 in 10s
-2026-04-28 09:51:56 [WARNING ] src.rule_detector – [RULE] PORT_SCAN (HIGH) from 127.0.0.1 – 200 unique ports in 30s
-2026-04-28 09:52:11 [WARNING ] src.rule_detector – [RULE] PORT_SCAN (CRITICAL) from 127.0.0.1 – 948 unique ports in 30s
-2026-04-28 09:52:26 [WARNING ] src.rule_detector – [RULE] PORT_SCAN (CRITICAL) from 127.0.0.1 – 948 unique ports in 30s
-2026-04-28 09:52:41 [WARNING ] src.rule_detector – [RULE] PORT_SCAN (CRITICAL) from 127.0.0.1 – 945 unique ports in 30s
